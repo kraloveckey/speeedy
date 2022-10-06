@@ -40,7 +40,7 @@ shure your channel is public, otherwise it will not work.
 ## Run the script
 
 ```bash
-cd /opt/speeedy/
+cd speeedy/
 python3 . 
 ``` 
 
