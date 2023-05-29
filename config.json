@@ -1,0 +1,6 @@
+{
+    "telegram": {
+        "token": "TOKEN_BOT",
+        "channel": "USER_ID"
+    }
+}
